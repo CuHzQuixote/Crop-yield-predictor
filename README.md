@@ -25,7 +25,13 @@ We use machine learning (XGBoost) to train on historical data (1997–2019) and 
 - Google Colab + GitHub for deployment
 
 ---
+## 🌍 Interactive Maps & Spatial Analysis
 
+This project also includes an **interactive GIS-style notebook** that visualizes crop yields, soil zones, and rainfall trends using **Folium maps**.
+
+🔗 [🌐 View the Full Interactive Notebook on Google Colab](https://colab.research.google.com/drive/1NgIWaODgIYsB3wkqdSYQR5TNUy6DaMbn)
+
+> *Built with GeoPandas and Folium to simulate real-world agri-tech mapping tools, this notebook showcases how spatial datasets can be visualized and analyzed for actionable insights.*
 
 ---
 
